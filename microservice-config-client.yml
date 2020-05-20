@@ -4,7 +4,7 @@ server:
 spring:
   profiles: test
   application:
-    name: microservice-config-client-11
+    name: microservice-config-client-12
 
 eureka:
   client:
